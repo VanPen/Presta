@@ -1,0 +1,4 @@
+[2019-10-20 11:34:51] app.ERROR: Class "AdminLinkWidgetController" not found in controllers/admin [] []
+[2019-10-20 11:34:55] app.INFO: Exporting mail with theme modern for language Français (French) [] []
+[2019-10-20 11:34:55] app.INFO: Core output folder: C:\wamp64\www\prestashop/mails [] []
+[2019-10-20 11:34:55] app.INFO: Modules output folder: C:\wamp64\www\prestashop/modules/ [] []
